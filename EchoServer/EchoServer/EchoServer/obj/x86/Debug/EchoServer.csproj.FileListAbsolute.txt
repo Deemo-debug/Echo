@@ -1,0 +1,20 @@
+E:\UnityBook\Chapter1\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+E:\UnityBook\Chapter1\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+E:\UnityBook\Chapter1\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.exe
+E:\UnityBook\Chapter1\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.pdb
+E:\UnityBook\Chapter2\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+E:\UnityBook\Chapter2\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+E:\UnityBook\Chapter2\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.exe
+E:\UnityBook\Chapter2\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.pdb
+D:\unity project\Echo\Assets\Scripts\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+D:\unity project\Echo\Assets\Scripts\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+D:\unity project\Echo\Assets\Scripts\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.csprojAssemblyReference.cache
+D:\unity project\Echo\Assets\Scripts\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.csproj.CoreCompileInputs.cache
+D:\unity project\Echo\Assets\Scripts\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.exe
+D:\unity project\Echo\Assets\Scripts\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.pdb
+D:\unity project\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+D:\unity project\EchoServer\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+D:\unity project\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.csprojAssemblyReference.cache
+D:\unity project\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.csproj.CoreCompileInputs.cache
+D:\unity project\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.exe
+D:\unity project\EchoServer\EchoServer\EchoServer\obj\x86\Debug\EchoServer.pdb

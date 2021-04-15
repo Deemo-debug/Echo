@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="EchoServer\EchoServer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Echo\Echo\Assets\Echo.cs">
+    <Files>
+      <File FileName="EchoServer\Program.cs" Line="74" Column="26" />
+      <File FileName="..\..\Echo\Echo\Assets\Echo.cs" Line="88" Column="1" />
+      <File FileName="EchoServer\Properties\AssemblyInfo.cs" Line="12" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
